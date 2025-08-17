@@ -1,2 +1,2 @@
 ini adalah baigian back end dari aplikasi scm prima fresh mart
-link front end
+link frontend : https://github.com/zeni08/scm-fronted
